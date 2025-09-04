@@ -7,3 +7,4 @@ This is a repository of porjects for the math 311 linear algebra course at Winon
 1. Solve Systems using Colab and Python
 
 2. Using Google Co-Laboratory to introduce the idea of solving systems of equations with code:
+https://colab.research.google.com/drive/1l-5-elp0CRL_othpd4Erx0JYhLJhYxHE
